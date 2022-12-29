@@ -8,9 +8,6 @@ Currently, Developing a cloud ERP from DDOCKDDOCK company.
 
 Also, I am running a blog to record what I have studied.
 
----
-
-Blog link: [https://ogt-blog.netlify.app](https://ogt-blog.netlify.app)
 
 # Projects
 
@@ -41,3 +38,7 @@ Blog link: [https://ogt-blog.netlify.app](https://ogt-blog.netlify.app)
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhGyeongtaek&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhGyeongtaek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)| 
 | ------------- | ------------- |
+
+---
+
+Blog link: [https://ogt-blog.netlify.app](https://ogt-blog.netlify.app)
