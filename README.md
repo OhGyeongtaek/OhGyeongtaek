@@ -44,8 +44,8 @@ Also, I am running a blog to record what I have studied.
 
 ## Post
 
+- [인생 통틀어 가장 재밌었던 2022년도 회고](https://ogt-blog.netlify.app/review/%EC%9D%B8%EC%83%9D%20%ED%86%B5%ED%8B%80%EC%96%B4%20%EA%B0%80%EC%9E%A5%20%EC%9E%AC%EB%B0%8C%EC%97%88%EB%8D%98%202022%EB%85%84%EB%8F%84%20%ED%9A%8C%EA%B3%A0)
 - [브라우저 렌더링 과정](https://ogt-blog.netlify.app/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95)
 - [Netlify를 이용하여 HTTPS 무료 호스팅하기](https://ogt-blog.netlify.app/Gatsbyjs/Netlify%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-HTTPS-%EB%AC%B4%EB%A3%8C-%ED%98%B8%EC%8A%A4%ED%8C%85%ED%95%98%EA%B8%B0)
 - [Netlify로 호스팅 후 SEO 처리 시 유의사항!](https://ogt-blog.netlify.app/Gatsbyjs/Netlify%EB%A1%9C-%ED%98%B8%EC%8A%A4%ED%8C%85-%ED%9B%84-SEO-%EC%B2%98%EB%A6%AC-%EC%8B%9C-%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD)
 - [Event Loop](https://ogt-blog.netlify.app/Javascript/Event-Loop)
-- [Mock를 이용해 함수 테스트하기](https://ogt-blog.netlify.app/Jest/Mock%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%ED%95%A8%EC%88%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0)
